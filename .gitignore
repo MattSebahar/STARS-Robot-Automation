@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+data
+Microtensile_Data_Suite
+*.png
+*.svg
+*.mp4
+*.avi
+
+# Fenics files
+grx810_plasticity
+*.vtu
+*.pvd
